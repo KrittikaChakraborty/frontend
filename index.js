@@ -5,7 +5,7 @@ const k = rd.createInterface({
     output: process.stdout
 });
 
-console.log("hi, I am xyz");
+console.log("hi, ");
 
 function check(a) {
     if (a % 2 === 0)  
